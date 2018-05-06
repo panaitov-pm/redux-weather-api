@@ -1,0 +1,32 @@
+.weather-box {
+    position :relative;
+}
+.header .weather-box__inner {
+    min-height :auto;
+}
+.weather-box__inner{
+    min-height: 150px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+ }
+ .weather-box__item {
+     height :100%;
+     flex: 1;
+     padding: 0 1rem;
+ }
+ svg {
+     height: 150px;
+     width: 100%;
+ }
+
+ .weather-box__title {
+    text-align: center;
+    flex: 1;
+    padding: 1rem 0;
+}
+
+.weather-box__item_map div {
+    height: 150px;
+    width: 100%;
+}
