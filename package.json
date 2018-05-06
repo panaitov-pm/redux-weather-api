@@ -1,6 +1,6 @@
 {
   "homepage": "http://panaitov-pm.github.io/redux-weather-api",
-  "name": "redux-books",
+  "name": "redux-weather-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
