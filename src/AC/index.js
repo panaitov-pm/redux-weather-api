@@ -2,7 +2,7 @@
 import C from '../constants';
 
 const API_KEY = '3d2f5bda192c23a9f4f8065ca4953877';
-const ROOT_URL = 'http://api.openweathermap.org/data/2.5/forecast?appid=' + API_KEY;
+const ROOT_URL = 'https://api.openweathermap.org/data/2.5/forecast?appid=' + API_KEY;
 
 /*export const fetchWeather = (city) => dispatch => {
 
